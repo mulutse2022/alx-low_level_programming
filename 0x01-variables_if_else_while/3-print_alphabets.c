@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- * Main - return alphabets both lower and upper cases
- *
- * Return: Always 0 (Success)
- *
- */
+* main - return alphabets both lower and upper cases
+*
+* Return: Always 0 (Success)
+*
+*/
 
 int main(void)
 {

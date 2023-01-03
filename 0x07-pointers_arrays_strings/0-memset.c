@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _memset - fill memory with a constant byte
  * @s: a pointer to the string
